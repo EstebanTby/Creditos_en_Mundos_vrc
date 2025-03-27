@@ -1,11 +1,66 @@
+World: Nostalgia Gamer 1994 - 2005
+By: Estebantby
+
 
 
 
 1) Credits for all models 3d CC:
 
 N64:
-
-
+https://sketchfab.com/3d-models/super-smash-bros-64-mario-06a071fea8164fc7a66f3623b5af4848#download
+https://sketchfab.com/3d-models/mario-hat-kirby-super-smash-bros-64-d6e81ca72d7c4711a0e77acf19a0f02e#download
+https://sketchfab.com/3d-models/day-9-nintendo-64-3d-inktober-2019-0e6919aaa3c84a73830248ba4a8f709c
+https://sketchfab.com/3d-models/n64-controller-09ffd7e460594f239d0723c0cb755b70#download
+https://sketchfab.com/3d-models/buzz-lightyear-n64-adfa38195003491aa71c1235c52a2bca
+https://sketchfab.com/3d-models/cartouche-n64-2b641c64bdb74a7c8fdbf5eb3f125893#download
+https://sketchfab.com/3d-models/majora-mask-from-zelda-majoras-mask-n64-0cc7b219892c451dac3bc3a567d7bb39#download
+https://sketchfab.com/3d-models/legend-of-zelda-majoras-mask-happy-mask-salesman-c764bb422614438cbe900bd0355437ba
+https://sketchfab.com/3d-models/lowpoly-ps1n64-style-link-zelda-c54fc91c1a2b46d5aacef14f2df80b03
 
 GBA:
+https://sketchfab.com/3d-models/radiator-springs-lightning-mcqueen-ds-2188da1c6d0e448fa9c6028e4b8f7c91#download
+https://sketchfab.com/3d-models/gba-cart-sonic-6a7c298989054faf918c37e342a6c6ec
+https://sketchfab.com/3d-models/gba-81929a5c8cef4d87906e9023198997c8#download
 
+Game cube:
+https://sketchfab.com/3d-models/pikmin-bulborb-5e40a8bfa6d9499dbf6caa56da5a21c1#download
+https://sketchfab.com/3d-models/gamecube-pikmin-2-blue-pikmin-733390c3dbc54446be216e5d791782ff#download
+https://sketchfab.com/3d-models/game-cube-metroid-prime-ice-beam-4ab91b9bcdfd46ca9af95c0d2eec7a9b#download
+https://sketchfab.com/3d-models/game-cube-super-mario-sunshine-bowser-c90b9a8961b64c988fbf3aafdef1465b
+https://sketchfab.com/3d-models/game-cube-metroid-prime-samus-gravity-suit-f47512f6b0624fe6870916c08e00cfc8#download
+https://sketchfab.com/3d-models/game-cube-the-incredibles-elastigirl-978d78fff30843cf80870936b03e709d
+https://sketchfab.com/3d-models/game-cube-super-mario-strikers-peach-f502e637c82145a7a67ed9202d78da7d#download
+
+Xbox
+https://sketchfab.com/3d-models/xbox-controller-fb5c01e1c4d74c65bf6e8cbf9f3199f2#download
+https://sketchfab.com/3d-models/xbox-6ded51a4060d49198bc80ed5403718ff
+
+PC:
+https://sketchfab.com/3d-models/the-sims-plumbob-8dadd87ba9e049c596765857fff2f527#download
+https://sketchfab.com/3d-models/counter-terrorist-gign-7c964dff17aa447796e71ce8d7d942a9#download
+
+Smartphone games:
+https://sketchfab.com/3d-models/nokia-low-poly-187ec5cd5ba84ad4b4ac8ee772aef35b
+
+Sega Saturn:
+https://sketchfab.com/3d-models/christmas-sonic-s1cd-blue-cc9f0191e7344a88a83e3fc2a7638471#download
+https://sketchfab.com/3d-models/sega-saturn-9b9e7ed7d627483493121f5a81a04748
+
+Dreamcast:
+https://sketchfab.com/3d-models/sega-dreamcast-3d8db0dd2a5d4d159ab1e09323b4dc44
+https://sketchfab.com/3d-models/dreamcast-sonic-adventure-sonic-bf72649f446740b083fdc78a8a28be45
+
+Playstation 1:
+https://sketchfab.com/3d-models/silent-hill-1-meshes-hunting-rifle-5fd37613ea7c4552a64c03f09bc2280c#download
+https://sketchfab.com/3d-models/silent-hill-1-meshes-handgun-c607208a764641258ae430915a497be2
+https://sketchfab.com/3d-models/playstation-2-crash-bandicoot-wrath-of-cortex-fd1340cd10de41fb959656c95c14849d#download
+https://sketchfab.com/3d-models/playstation-2-crash-bandicoot-wrath-of-cortex-27ba0230472e474c83b67644a4071e1f
+https://sketchfab.com/3d-models/silent-hill-1-meshes-chainsaw-24586d55c41b47f39a8c8ec59ecf4da9
+https://sketchfab.com/3d-models/ps-controller-7b6e1a7d9c8e404987674308e0f011a5#download
+
+Playstation 2:
+https://sketchfab.com/3d-models/playstation-2-41aaef23d5c14b01b3dfc9fb77894025
+https://sketchfab.com/3d-models/ps2-controller-0aae69bf61a947589cdc09f8f6b5ccc5
+https://sketchfab.com/3d-models/playstation-2-99d0c0c7f024430ca1c6179a07d85ffa#download
+
+PSP:
